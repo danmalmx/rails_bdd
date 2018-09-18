@@ -1,6 +1,6 @@
 Feature: List articles on the landing page
-  As a visitor, 
-  When I visit the landing page of the landing page
+    As a visitor,
+    When I visit the landing page of the landing page
   I would like to see a list of articles
 
   Scenario: Viem list of articles on the landing page
